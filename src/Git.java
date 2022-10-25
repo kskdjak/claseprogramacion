@@ -1,6 +1,6 @@
 public class Git {
     public static void main(String[] args) {
-    System.out.println("\ncomandos git utilizados\n");
+    System.out.println("\ncomandos git utilizados para subir al github\n");
         System.out.println("git config user.email: Este comando es para ver con que correo esta vinculado el git en la plataforma de intellij IDEA.\n");
         System.out.println("git config --global user.email: Este se utiliza para ingresar el correo del github.\n");
         System.out.println("git config user.name: Este se utiliza para ver con cual nombre de usuario esta.\n");
