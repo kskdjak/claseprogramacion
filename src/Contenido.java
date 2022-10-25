@@ -1,5 +1,5 @@
 public class Contenido {
-    public static void main(String[] args) {
+public static void main(String[] args) {
         System.out.println("CONCEPTOS DE LA PROGRAMACION\n");
         System.out.println("1.-Tecnologia:  La tecnologia tiene el objetivo de eliminar las tareas repetitivas facilitando el trabajo\n y haciéndolo más eficiente.\n");
         System.out.println("2.-Programacion: Se basa s el instrumento que permite la ejecución de las tareas automatizadas de un\n sistema informatico.\n");
@@ -21,5 +21,5 @@ public class Contenido {
         System.out.println("18.-Big Data: almacenamiento de grandes cantidades de datos.\n");
         System.out.println("19.-Terminal: Es una interfaz de linea de comandos, es decir una interfaz es para que la persona\n envíe comandos a la computadora.\n");
         System.out.println("20.-Codigo Binario: EL codigo formado solo por 0 y 1 que tiene como funcion codificar, es la base de toda la logica de la computadora.\n");
-    }
+        }
 }
